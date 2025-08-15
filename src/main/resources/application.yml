@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: EntityManager
+
+server:
+  port: 8081
